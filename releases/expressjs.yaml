@@ -9,7 +9,6 @@ metadata:
 spec:
   chart:
     repository: https://alexellis.github.io/expressjs-k8s/
-    ref: master
     name: expressjs-k8s
     version: 0.1.1
   values:
