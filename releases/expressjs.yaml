@@ -4,7 +4,7 @@ metadata:
   name: expressjs-k8s
   annotations:
     fluxcd.io/automated: "true"
-    filter.fluxcd.io: semver:~0.3
+    filter.fluxcd.io/chart-image: semver:~0.3
 spec:
   chart:
     repository: https://alexellis.github.io/expressjs-k8s/
