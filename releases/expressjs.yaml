@@ -6,7 +6,7 @@ spec:
   chart:
     repository: https://alexellis.github.io/expressjs-k8s/
     name: expressjs-k8s
-    version: 5.4.0
+    version: 0.1.1
   values:
     ingress:
       enabled: false
