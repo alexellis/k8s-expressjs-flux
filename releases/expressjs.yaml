@@ -1,3 +1,4 @@
+---
 apiVersion: helm.fluxcd.io/v1
 kind: HelmRelease
 metadata:
@@ -14,4 +15,4 @@ spec:
   values:
     ingress:
       enabled: false
-    image: alexellis2/service:0.3.5
+    image: alexellis2/service:0.3.6
