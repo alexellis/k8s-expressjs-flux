@@ -14,4 +14,4 @@ spec:
   values:
     ingress:
       enabled: false
-    image: alexellis2/service:0.3.6
+    image: alexellis2/service:0.3.7
